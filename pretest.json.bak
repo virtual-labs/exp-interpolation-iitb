@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The polynomial that passes through the following x-y data <br> <table style='border: 1px solid #000'><tr style='border: 1px solid #000'><td style='border: 1px solid #000'>x</td><td style='border: 1px solid #000'>18</td><td style='border: 1px solid #000'>22</td><td style='border: 1px solid #000'>24</td></tr><tr><td style='border: 1px solid #000'>y</td><td style='border: 1px solid #000'>?</td><td style='border: 1px solid #000'>25</td><td style='border: 1px solid #000'>123</td></tr></table> <br> is given by <br> 8.125x<sup>2</sup>-324.75x+3237, &nbsp;&nbsp;18 &lt;x&lt;24 <br> f<sub>2</sub>(x) = b<sub>0</sub> + b<sub>1</sub>(x-18) + b<sub>2</sub>(x-18)(x-22) <br> The value of b<sub>2</sub> is",
+        "qid": 1,
+        "option_a": "8.1250",
+        "option_b": "0.2500",
+        "option_c": "24.000",
+        "option_d": "25.1200",
+        "correct_option": "a"
+    },
+    {
+        "question": "If a polynomial of degree n has more than n zeros, then the polynomial is",
+        "qid": 2,
+        "option_a": "oscillatory",
+        "option_b": "quadratic",
+        "option_c": "zero everywhere",
+        "option_d": "not defined",
+        "correct_option": "c"
+    }
+]
